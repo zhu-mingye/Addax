@@ -43,7 +43,7 @@
         <druid.version>1.2.6</druid.version>
         <fastjson.version>1.2.76</fastjson.version>
         <findbugs.version>3.0.1</findbugs.version>
-        <guava.version>29.0-jre</guava.version>
+        <guava.version>31.0.1-jre</guava.version>
         <groovy.version>3.0.9</groovy.version>
         <fluent.hc.version>4.5.13</fluent.hc.version>
         <hadoop.common.version>3.2.2</hadoop.common.version>
